@@ -60,7 +60,7 @@
           <th style="text-align: center">Penulis</th>
           <th style="text-align: center">Gambar</th>
           <th style="text-align: center">Harga</th>
-          <th style="text-align: center">Action</th>
+          <th style="text-align: center">Aksi</th>
           
 
         </tr>

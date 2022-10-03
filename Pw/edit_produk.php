@@ -77,7 +77,7 @@ include 'koneksi.php';
   </head>
   <body>
       <center>
-        <h1>Edit Data Buku <?php echo $data['nama_buku']; ?></h1>
+        <h1>Edit Buku <?php echo $data['nama_buku']; ?></h1>
       <center>
       <form method="POST" action="proses_edit.php" enctype="multipart/form-data" >
       <section class="base">
