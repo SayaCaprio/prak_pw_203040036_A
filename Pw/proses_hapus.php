@@ -3,7 +3,7 @@ include 'koneksi.php';
 $id = $_GET["id"];
 
     //jalankan query DELETE untuk menghapus data
-    $query = "DELETE FROM buku WHERE no = '$id' ";
+    $query = "DELETE FROM buku WHERE no='$id' ";
     $hasil_query = mysqli_query($koneksi, $query);
 
     //periksa query, apakah ada kesalahan
