@@ -13,10 +13,10 @@
       }
       h1 {
         text-transform: uppercase;
-        color: salmon;
+        color: maroon;
       }
     table {
-      background-color: #336B6B;
+      background-color:	#C0C0C0;
       border: solid 1px #DDEEEE;
       border-collapse: collapse;
       border-spacing: 0;
