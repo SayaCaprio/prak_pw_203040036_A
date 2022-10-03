@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Tambah Produk Buku</title>
+    <title>Tambah Buku</title>
     <style type="text/css">
       * {
         font-family: "Trebuchet MS";
